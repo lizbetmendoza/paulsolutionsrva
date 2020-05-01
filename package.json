@@ -1,0 +1,22 @@
+{
+  "name": "paulsolutionsrva",
+  "version": "1.0.0",
+  "description": "Pablos's site",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizbetmendoza/paulsolutionsrva.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizbetmendoza/paulsolutionsrva/issues"
+  },
+  "homepage": "https://github.com/lizbetmendoza/paulsolutionsrva#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
